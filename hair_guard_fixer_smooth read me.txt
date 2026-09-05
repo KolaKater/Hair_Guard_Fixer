@@ -1,0 +1,2 @@
+if you want to use hair_guard_fixer_smooth.py, just remove or delete hair_guard_fixer.py.
+Then rename the hair_guard_fixer_smooth.py to hair_guard_fixer.py
