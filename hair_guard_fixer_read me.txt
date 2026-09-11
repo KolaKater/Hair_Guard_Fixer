@@ -1,0 +1,8 @@
+if you want to use the other Version of hair_guard_fixer or hair_guard_fixer_any_distill, just remove or delete hair_guard_fixer.py.
+Then rename the hair_guard_fixer*.py to hair_guard_fixer.py or hair_guard_fixer_any_distill.py
+
+
+
+Wanna try  hair_guard_fixer-V56-Fast DINO2 full Version?
+Then：
+..\python\python.exe -m pip install timm
